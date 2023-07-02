@@ -1,7 +1,7 @@
 # Case
-This folder contains all the information you need to build the case for the Tanuki-Ext Oled. There are 2 files. One for the case itself that will hold the switches and one for the backplate. Both files are available in `.stl` format for easy printing and `.step` format for future editing and or mods. 
+This folder contains all the information you need to build the case for the Tanuki-Ext Oled. There are 2 different files. One for the case itself that will hold the switches and one for the backplate. Both files are available in `.stl` format for easy printing and `.step` format for future editing and or mods. 
 
-As you may notice from the pictures below the entire case can be 3d printed and just fits on my 3d printer which has a bed of 245 by 245.
+As you may notice from the pictures below the entire case can be 3d printed and just about fits on my 3d printer which has a bed of 245mm x 245mm.
 
 | | |
 | --- | --- |
